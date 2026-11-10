@@ -51,8 +51,8 @@ Autonomous vehicles rely on machine learning models for interpreting sensor data
 ## Installation
 
 ```bash
-git clone https://github.com/404-dev-notFound/Adversarial-Evasion-Attack.git
-cd Adversarial-Evasion-Attack
+git clone https://github.com/404-dev-notFound/av-adversarial-defense.git
+cd av-adversarial-defense
 pip install -r requirements.txt
 ```
 
